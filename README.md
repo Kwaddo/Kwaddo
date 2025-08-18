@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Ali and I'm an aspiring developer, from Bahrain!</p>
+<p align="left">My name is Ali and I'm a Software Engineer, from Bahrain!</p>
 
 ###
 
