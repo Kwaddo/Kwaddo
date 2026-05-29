@@ -111,6 +111,7 @@
 ###
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Kwaddo/Kwaddo/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Kwaddo/Kwaddo/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
